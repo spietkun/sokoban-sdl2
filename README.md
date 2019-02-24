@@ -44,7 +44,7 @@ Sokoban game made for the university project.
  
 ### Programming languages and libraries
 
- - C++
+ - C
  - SDL2
 
 ## Usage
