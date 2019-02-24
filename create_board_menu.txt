@@ -1,0 +1,8 @@
+Click character to create a tile:
+You cant delete a tile once you click it!
+o - wall
+d - diamond
+c - chest
+f - floor
+8 - hero
+Click e to go back to the menu.
