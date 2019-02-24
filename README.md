@@ -38,7 +38,7 @@ Sokoban game made for the university project.
 	**c** - chest
 	**f** - floor
 	**8** - hero.
-	 Click e to go back to the menu. 
+	 Click **e** to go back to the menu. 
  - saving the scores
  - retro graphic
  
